@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+numpy
+tensorflow
+opencv-python>=4.6.0
+python-multipart
+pydantic
