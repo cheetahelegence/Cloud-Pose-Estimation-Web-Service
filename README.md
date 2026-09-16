@@ -16,6 +16,7 @@ The project focuses on cloud deployment, containerisation, Kubernetes orchestrat
 
 ## Architecture
 
+```text
 Client
   ↓
 FastAPI REST API
@@ -27,6 +28,7 @@ Kubernetes Service
 Kubernetes Pods
   ↓
 Pose Estimation Model
+```
 
 ## Key Features
 
